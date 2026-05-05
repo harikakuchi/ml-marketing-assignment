@@ -1,0 +1,3 @@
+Model,R²,RMSE
+Without Discount Feature,-0.0142,28757.07
+With Discount Feature,-0.0124,28731.71

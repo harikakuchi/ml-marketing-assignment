@@ -1,0 +1,12 @@
+Feature,RF_Importance,GB_Importance,Permutation_Importance
+Bundle_Price,0.1264,0.1876,-0.0014
+Budget,0.1256,0.1813,-0.0062
+Clicks,0.1241,0.148,-0.0041
+Conversions,0.1194,0.1036,-0.0039
+ROI,0.1167,0.1185,-0.0073
+Units_Sold,0.1136,0.0895,-0.0019
+Discount_Level,0.0998,0.0782,0.0025
+Subscription_Length,0.088,0.0545,-0.0038
+Customer_Satisfaction_Post_Refund,0.0322,0.0124,0.0002
+Common_Keywords,0.0297,0.0166,0.0039
+Subscription_Tier,0.0244,0.0098,0.0025
